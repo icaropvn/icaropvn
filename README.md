@@ -4,7 +4,7 @@
 
 <div>
   <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=icaropvn&theme=gotham&hide_border=true&show_icons=true&hide=contribs&rank_icon=github&custom_title=Ícaro-Stats">
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaropvn&theme=gotham&hide_border=true">
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaropvn&theme=gotham&hide_border=true&layout=compact">
 </div>
 
 <div style="display: inline_block"><br>
