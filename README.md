@@ -3,7 +3,7 @@
 ### 🎓 Cursando Engenharia de Software (2º Semestre)
 
 <div>
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=icaropvn&theme=gotham&hide_border=true">
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=icaropvn&theme=gotham&hide_border=true&show_icons=true&hide=contribs&rank_icon=github">
   <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaropvn&theme=gotham&hide_border=true">
 </div>
 
