@@ -9,7 +9,7 @@
 - 🕓 Atualmente estudando C e Python
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=icaropvn&theme=transparent&show_icons=true&">
+  <img src="https://github-readme-stats.vercel.app/api?username=icaropvn&theme=transparent&show_icons=true&hide_border=true">
 </div>
 
 <div style="display: inline_block"><br>
