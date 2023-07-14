@@ -7,7 +7,7 @@
 
 <div>
   <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=icaropvn&theme=gotham&hide_border=true&show_icons=true&hide=contribs&rank_icon=github&custom_title=Stats">
-  <img height="300cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaropvn&theme=gotham&hide_border=true&layout=donut">
+  <img height="260cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaropvn&theme=gotham&hide_border=true&layout=donut">
 </div>
 
 <div style="display: inline_block"><br>
