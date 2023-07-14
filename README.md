@@ -1,4 +1,4 @@
-# Welcome! I'm Ícaro.
+# Welcome! I'm Ícaro
 
 - 📍 Brazilian
 - 🎓 Cursando Engenharia de Software (2º Semestre)
