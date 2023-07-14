@@ -9,7 +9,7 @@
 - 🕓 Atualmente estudando C e Python
 
 <div>
-  <img height="260cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaropvn&theme=gotham&hide_border=true&layout=donut">
+  <img src="https://github-readme-stats.vercel.app/api?username=icaropvn">
 </div>
 
 <div style="display: inline_block"><br>
