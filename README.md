@@ -1,4 +1,4 @@
-# Bem-vindo(a)! Eu sou o Ícaro!
+# Welcome! I'm Ícaro!
 
 ### 🎓 Cursando Engenharia de Software (2º Semestre)
 
