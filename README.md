@@ -1,9 +1,12 @@
 # Welcome! I'm Ícaro!
 
-### 🎓 Cursando Engenharia de Software (2º Semestre)
-### 🎯 Interesses em:
-- Desenvolvimento Front-end
-- UI/UX Design
+- 📍 Brazilian
+- 🎓 Cursando Engenharia de Software (2º Semestre)
+- 🎯 Interesses em:
+   - Desenvolvimento Front-end
+   - Desenvolvimento Mobile
+   - UI/UX Design
+- 🕓 Atualmente estudando C e Python
 
 <div>
   <img height="260cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icaropvn&theme=gotham&hide_border=true&layout=donut">
