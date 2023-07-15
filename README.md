@@ -4,7 +4,6 @@
 - 🎓 Cursando Engenharia de Software (2º Semestre)
 - 🎯 Interesses em:
    - Desenvolvimento Front-end
-   - Desenvolvimento Mobile
    - UI/UX Design
 - 🕓 Atualmente estudando C e Python
 
