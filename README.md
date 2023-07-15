@@ -8,7 +8,7 @@
 - 🕓 Atualmente estudando C e Python
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icaropvn&theme=transparent&show_icons=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=icaropvn&bg_color=13171F&show_icons=true&hide_border=true&title_color=DCC030&icon_color=2255EE&text_color=B3B3B3">
 </div>
 
 <div align="center" style="display: inline_block"><br>
