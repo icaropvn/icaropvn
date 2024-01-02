@@ -2,10 +2,8 @@
 
 - 📍 Brazilian
 - 🎓 Software Engineering College (2<sup>nd</sup> Semester)
-- 🎯 Interests:
-   - Front-end development
-   - UI/UX design
-- 🕓 Studying C and Python currently
+- 🕓 Studying the programming foundations in C currently
+- ➕ Interested in learning Python, JavaScript, and HTML/CSS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=icaropvn&bg_color=13171F&show_icons=true&hide_border=true&title_color=DCC030&icon_color=2255EE&text_color=B3B3B3">
