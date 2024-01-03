@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! I'm Ícaro</h1>
 
 - 📍 Brazilian
-- 🎓 Software Engineering College (2<sup>nd</sup> Semester)
+- 🎓 Software Engineering College (3<sup>rd</sup> Semester)
 - 🕓 Studying the programming foundations in C currently
 - ➕ Interested in learning Python, JavaScript, and HTML/CSS
 
