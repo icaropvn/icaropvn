@@ -2,8 +2,8 @@
 
 - 📍 Brazilian
 - 🎓 Software Engineering College (3<sup>rd</sup> Semester)
-- 🕓 Studying the programming foundations in C currently
-- ➕ Interested in learning Python, JavaScript, and HTML/CSS
+- 🕓 Studying data structures with C currently
+- ➕ I try to create cool stuff that might help some people with (something) by coding!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=icaropvn&bg_color=13171F&show_icons=true&hide_border=true&title_color=DCC030&icon_color=2255EE&text_color=B3B3B3">
