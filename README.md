@@ -2,7 +2,7 @@
 
 - 📍 Brazilian
 - 🎓 Software Engineering College (3<sup>rd</sup> Semester)
-- 🕓 Studying data structures with C currently
+- 🕓 Studying data structures with C and C++ currently
 - ➕ I try to create cool stuff that might help some people with (something) by coding!
 
 <div align="center">
