@@ -1,9 +1,9 @@
 <h1 align="center">Welcome! I'm Ícaro</h1>
 
 - 📍 Brazilian
-- 🎓 Software Engineering College (3<sup>rd</sup> Semester)
+- 🎓 Software Engineering College
 - 🕓 Studying data structures with C and C++ currently
-- ➕ I try to create cool stuff that might help some people with (something) by coding!
+- ➕ I create stuff by coding!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=icaropvn&bg_color=13171F&show_icons=true&hide_border=true&title_color=DCC030&icon_color=2255EE&text_color=B3B3B3">
