@@ -30,6 +30,6 @@
 <h3 align="left">For contacting:</h3>          
 <p align="left">
   <a href="https://www.linkedin.com/in/%C3%ADcaro-pavan-65a868285/">
-    <img src="https://skillicons.dev/icons?i=in" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
