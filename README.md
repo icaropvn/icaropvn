@@ -2,7 +2,6 @@
 
 - 📍 Brazilian
 - 🎓 Software Engineering College
-- 🕓 Studying data structures with C and C++ currently
 - ➕ I create stuff by coding!
 
 <div align="center">
